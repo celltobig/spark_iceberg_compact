@@ -131,5 +131,6 @@ options=>map(
 
 微信：celltobigs  
 
-![image](https://github.com/celltobig/spark_iceberg_compact/assets/4598224/f298d8de-6e7e-4231-9531-f1a3577732ca)
+<img width="436" alt="image" src="https://github.com/celltobig/spark_iceberg_compact/assets/4598224/8420c333-41b4-47ed-b6e7-6edc832834aa">
+
 
