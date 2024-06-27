@@ -127,8 +127,9 @@ options=>map(
 兼职做： \
 1、前后端应用系统开发，实现高并发 高性能 高可用 。 \
 2、大数据领域 spark flink hadoop体系 流计算、批处理 、etl 。 \
-3、技术支持及解决方案 。\
+3、技术支持及解决方案 。
 
-微信：celltobigs  \
+微信：celltobigs  
 
+![image](https://github.com/celltobig/spark_iceberg_compact/assets/4598224/f298d8de-6e7e-4231-9531-f1a3577732ca)
 
